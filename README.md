@@ -1,9 +1,4 @@
-# 🔐 Checking Password Strength Using Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-Apache%202.0-green)
-![Dataset](https://img.shields.io/badge/Dataset-670k%20Passwords-orange)
-![Models](https://img.shields.io/badge/Models-Logistic%20Regression%20%7C%20Gradient%20Boosting-purple)
+# 🔐 Password Strength Prediction
 
 A machine learning project that predicts the strength of any password — classifying it as **Weak**, **Medium**, or **Strong** — by learning patterns from over 670,000 real-world passwords. Built with character-level TF-IDF feature extraction and two classification models.
 
